@@ -1,4 +1,4 @@
-# Hi, I'm Amr Nader Wahba 👋
+# Hi, I'm Amr Nader👋
 
 ### Data Analyst | Power BI • SQL • Python • Excel
 
