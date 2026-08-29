@@ -1,6 +1,6 @@
 # Hi, I'm Amr Nader Wahba 👋
 
-### Junior Data Analyst | Power BI • SQL • Python • Excel
+### Data Analyst | Power BI • SQL • Python • Excel
 
 I transform raw data into clear dashboards, useful insights, and practical business decisions. My work focuses on data cleaning, exploratory analysis, KPI reporting, and interactive dashboard development.
 
