@@ -27,11 +27,13 @@ I transform raw data into clear dashboards, useful insights, and practical busin
 
 | Project | Description | Tools |
 |---|---|---|
+| [Egyptian Railway Operations Analytics](https://github.com/amr-n-wahba/Egyptian-Railway-Operations-Analytics) | End-to-end Egyptian railway analytics project covering delays, station bottlenecks, passenger capacity, fuel efficiency, revenue, and predictive analytics. | Power BI, SQL Server, Python, Machine Learning, Streamlit |
 | [HR Analytics Dashboard](https://github.com/amr-n-wahba/power-bi-hr-analytics-dashboard) | Workforce, attrition, satisfaction, income, and performance analysis. | Power BI, DAX, Power Query |
 | [Superstore Sales Dashboard](https://github.com/amr-n-wahba/power-bi-superstore-sales-dashboard) | Sales, profit, customer, product, and loss analysis across three dashboard pages. | Power BI, DAX, Excel |
 | [Python Retail Sales Analysis](https://github.com/amr-n-wahba/python-retail-sales-analysis) | Data cleaning, KPI analysis, trends, and automated visual reporting. | Python, Pandas, NumPy |
 | [BikeStores Sales Analysis](https://github.com/amr-n-wahba/bikestores-sales-analysis) | SQL analysis of customers, products, stores, staff, sales, and inventory. | SQL Server, T-SQL |
 | [TechStore Database Management](https://github.com/amr-n-wahba/techstore-database-management) | Relational database design with constraints, views, procedures, and triggers. | SQL Server, T-SQL |
+| [Egyptian Railway ML](https://github.com/amr-n-wahba/egyptian-railway-ml) | Machine Learning system for predicting train delays and station bottlenecks in Egyptian railway operations. | Python, Machine Learning, Streamlit |
 
 ## 🎓 Selected Certifications
 
@@ -44,4 +46,3 @@ I transform raw data into clear dashboards, useful insights, and practical busin
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Amr_Nader_Wahba-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/3mr-nader/)
 [![Email](https://img.shields.io/badge/Email-amr.n3der%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:amr.n3der@gmail.com)
-
